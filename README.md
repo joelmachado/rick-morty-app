@@ -27,23 +27,21 @@ O Rick and Morty Character Explorer é uma aplicação web interativa que permit
 Framework: Utilizado para desenvolver o front-end da aplicação, fornecendo uma estrutura robusta para criação de componentes modulares e reutilizáveis.
 Routing: Implementação de navegação entre diferentes vistas da aplicação, incluindo a listagem de personagens e detalhes de personagens individuais.
 HTTPClient: Utilizado para fazer chamadas HTTP à API RESTful do Rick and Morty, buscando dados em tempo real.
-##RESTful API:
+## RESTful API:
 
 Rick and Morty API: API pública utilizada para obter dados dos personagens, como nome, status, espécie, origem e imagem. A API segue os princípios REST, garantindo operações eficientes de leitura de dados.
-##NgBootstrap:
+## NgBootstrap:
 
-Componentes de UI: Utilização de componentes prontos do NgBootstrap, como cards e toasts, para uma interface de usuário consistente e responsiva.
+Componentes de UI: Utilização de componentes prontos do NgBootstrap, como cards para uma interface de usuário consistente e responsiva.
 Estilização: Aplicação de estilos e temas modernos para melhorar a experiência do usuário.
-Toast Notifications:
 
-Feedback ao Usuário: Exibição de notificações de sucesso e erro para informar o usuário sobre o status das operações, como carregamento de personagens e tratamento de erros.
 ## Funcionalidades Principais:
 
 Listagem de Personagens: Exibição de uma lista de personagens com imagem, nome, status e espécie.
 Detalhes de Personagens: Navegação para uma página de detalhes ao clicar em um personagem, exibindo informações detalhadas.
-Autenticação: Página de login simples (se aplicável).
-Notificações: Sistema de notificações para fornecer feedback em tempo real sobre o status das operações.
-Objetivo do Projeto:
+
+
+## Objetivo do Projeto:
 O objetivo deste projeto é demonstrar a integração de um front-end moderno desenvolvido com Angular e estilizado com NgBootstrap com uma API RESTful. O projeto também ilustra a importância de feedback em tempo real através de notificações, proporcionando uma experiência de usuário otimizada.
 
 ## Público-Alvo:
