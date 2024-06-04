@@ -42,7 +42,7 @@ Detalhes de Personagens: Navegação para uma página de detalhes ao clicar em u
 
 
 ## Objetivo do Projeto:
-O objetivo deste projeto é demonstrar a integração de um front-end moderno desenvolvido com Angular e estilizado com NgBootstrap com uma API RESTful. O projeto também ilustra a importância de feedback em tempo real através de notificações, proporcionando uma experiência de usuário otimizada.
+O objetivo deste projeto é demonstrar a integração de um front-end moderno desenvolvido com Angular e estilizado com NgBootstrap com uma API RESTful. 
 
 ## Público-Alvo:
 Este projeto é destinado a desenvolvedores web que desejam aprender sobre a construção de aplicações Angular integradas com APIs RESTful e estilizadas com frameworks modernos como o NgBootstrap. Também é útil para fãs de "Rick and Morty" interessados em explorar informações sobre os personagens da série.
