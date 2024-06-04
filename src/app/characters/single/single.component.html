@@ -1,0 +1,20 @@
+  <div class="container">
+  <div *ngIf="character" class="card" style="width: 340px; margin-top: 40px; margin-left: auto; margin-right: auto;">
+    <img class="card-img-top" [src]="character.image" alt="{{ character.name }}">
+    <div class="card-body">
+      <h5 class="card-title">{{ character.name }}</h5>
+    </div>
+    <ul class="list-group list-group-flush">
+      <li class="list-group-item"><b style="float: left; margin-right: 4px;">Status: </b> <span class="status"  [ngStyle]="{'backgroundColor': character.status === 'Alive' ? 'green' : 'red'}"></span> <span class="species"> {{character.status}} - {{character.species}}</span></li>
+      <li class="list-group-item"><b>Species:</b> {{ character.species }}</li>
+      <li class="list-group-item"><b>Gender:</b> {{ character.gender }}</li>
+      <li class="list-group-item"><b>Origin:</b> {{ character.origin.name }}</li>
+      <li class="list-group-item"><b>Location:</b> {{ character.location.name }}</li>
+    </ul>
+    <div class="card-body">
+      <a [routerLink]="['/characters']" class="btn btn-success">Voltar a Listagem</a>
+      
+    </div>
+  </div>
+</div>
+
