@@ -14,15 +14,15 @@ Execute `ng serve` para um servidor de desenvolvimento. Navegue até `http://loc
 
 Execute `ng build` para construir o projeto. Os artefatos de construção serão armazenados no diretório `dist/`.
 
-##Descrição do Projeto
+## Descrição do Projeto
 Nome do Projeto: Rick and Morty Character Explorer
 
-#Visão Geral:
+# Visão Geral:
 O Rick and Morty Character Explorer é uma aplicação web interativa que permite aos usuários explorar personagens da popular série de animação "Rick and Morty". A aplicação é construída usando Angular para o front-end, e integra-se com a Rick and Morty API, uma RESTful API pública, para buscar e exibir informações detalhadas sobre os personagens. Utilizamos NgBootstrap para estilização e componentes de interface do usuário, proporcionando uma experiência moderna e responsiva.
 
-#Tecnologias Utilizadas:
+# Tecnologias Utilizadas:
 
-##Angular:
+## Angular:
 
 Framework: Utilizado para desenvolver o front-end da aplicação, fornecendo uma estrutura robusta para criação de componentes modulares e reutilizáveis.
 Routing: Implementação de navegação entre diferentes vistas da aplicação, incluindo a listagem de personagens e detalhes de personagens individuais.
@@ -37,7 +37,7 @@ Estilização: Aplicação de estilos e temas modernos para melhorar a experiên
 Toast Notifications:
 
 Feedback ao Usuário: Exibição de notificações de sucesso e erro para informar o usuário sobre o status das operações, como carregamento de personagens e tratamento de erros.
-##Funcionalidades Principais:
+## Funcionalidades Principais:
 
 Listagem de Personagens: Exibição de uma lista de personagens com imagem, nome, status e espécie.
 Detalhes de Personagens: Navegação para uma página de detalhes ao clicar em um personagem, exibindo informações detalhadas.
@@ -46,5 +46,5 @@ Notificações: Sistema de notificações para fornecer feedback em tempo real s
 Objetivo do Projeto:
 O objetivo deste projeto é demonstrar a integração de um front-end moderno desenvolvido com Angular e estilizado com NgBootstrap com uma API RESTful. O projeto também ilustra a importância de feedback em tempo real através de notificações, proporcionando uma experiência de usuário otimizada.
 
-##Público-Alvo:
+## Público-Alvo:
 Este projeto é destinado a desenvolvedores web que desejam aprender sobre a construção de aplicações Angular integradas com APIs RESTful e estilizadas com frameworks modernos como o NgBootstrap. Também é útil para fãs de "Rick and Morty" interessados em explorar informações sobre os personagens da série.
