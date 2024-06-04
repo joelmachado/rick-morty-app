@@ -11,5 +11,3 @@ Execute `ng serve` para um servidor de desenvolvimento. Navegue até `http://loc
 ## Build
 
 Execute `ng build` para construir o projeto. Os artefatos de construção serão armazenados no diretório `dist/`.
-
-
