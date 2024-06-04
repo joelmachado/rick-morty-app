@@ -1,5 +1,7 @@
 # Rick morty app angular
 
+![app](https://github.com/joelmachado/rick-morty-app/assets/194693/dce22b77-b646-4c0e-a125-914b63e412bf)
+
 ## instalação
 
  - Executar npm install para instalar os módulos do node (node_modules)
